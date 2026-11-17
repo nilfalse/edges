@@ -1,3 +1,9 @@
+/*
+ * Copyright 2026 nilfalse.com
+ *
+ * This Source Code Form is subject to the terms of the Mozilla Public
+ * License, v. 2.0. If a copy of the MPL was not distributed with this
+ * file, You can obtain one at https://mozilla.org/MPL/2.0/. */
 import type { Iata } from './airports.ts';
 import type * as aws from './aws.ts';
 import type * as cloudflare from './cloudflare.ts';
