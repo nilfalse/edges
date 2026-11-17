@@ -1,0 +1,38 @@
+{
+  "name": "edges",
+  "version": "0.0.0",
+  "main": "edges.json",
+  "files": [
+    "edges.json"
+  ],
+  "scripts": {
+    "typecheck": "tsc --project .",
+    "fmt": "prettier --write ."
+  },
+  "devDependencies": {
+    "@trivago/prettier-plugin-sort-imports": "^6.0.2",
+    "@types/node": "^24",
+    "prettier": "^3.10.1",
+    "typescript": "^7.0.2"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "nilfalse",
+  "homepage": "https://ctf.pages.dev/datasets/edges.json",
+  "license": "MPL-2.0",
+  "prettier": {
+    "plugins": [
+      "@trivago/prettier-plugin-sort-imports"
+    ],
+    "importOrder": [
+      "<BUILTIN_MODULES>",
+      "<THIRD_PARTY_MODULES>",
+      "^~(?!.*\\.css(?:\\?.*)?$)(.+)$",
+      "^(?:\\.{1,2}/)(?!\\+)(?!.*\\.css(?:\\?.*)?$).*",
+      "^\\./\\+.*$",
+      "\\.css(?:\\?.*)?$"
+    ],
+    "importOrderSeparation": true,
+    "singleQuote": true
+  }
+}
