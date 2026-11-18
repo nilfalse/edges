@@ -1,0 +1,66 @@
+name: Update
+
+# Builds edges.json from fresh provider data. On main it commits the file when
+# it changed; on a pull request it only checks that the build passes.
+# A failed build commits nothing, so the last good edges.json stays in place.
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  schedule:
+    - cron: '43 4 * * 6'
+  workflow_dispatch:
+
+concurrency:
+  group: update-${{ github.ref }}
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+
+      - run: npm i
+
+      - run: npx prettier --check .
+
+      - run: make --jobs --output-sync=target
+        env:
+          FASTLY_KEY: ${{ secrets.FASTLY_KEY }}
+
+      # Fastly codes are placed by nearest airport, which can pick the wrong
+      # country near a border. Put the diff where it can be reviewed.
+      - name: Summarize changes
+        run: |
+          git add --intent-to-add edges.json
+          if git diff --quiet edges.json; then
+            echo 'edges.json unchanged.' >> "$GITHUB_STEP_SUMMARY"
+          else
+            {
+              echo '```diff'
+              git diff edges.json
+              echo '```'
+            } >> "$GITHUB_STEP_SUMMARY"
+          fi
+
+      - name: Commit edges.json
+        if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        # The contents API commits as github-actions[bot], signed by GitHub.
+        # `sha` is the blob being replaced: if main changed edges.json since
+        # checkout, the API refuses with 409 instead of overwriting it.
+        run: |
+          [ -z "$(git status --porcelain edges.json)" ] && exit 0
+          sha=$(git rev-parse --verify --quiet HEAD:edges.json) || sha=
+          gh api --method PUT "repos/$GITHUB_REPOSITORY/contents/edges.json" \
+            --silent \
+            -f message='update edges.json' \
+            -f branch=main \
+            -f content="$(base64 -w0 edges.json)" \
+            ${sha:+-f "sha=$sha"}

@@ -1,5 +1,8 @@
 # edges
 
+[![CI status shield](https://github.com/nilfalse/edges/actions/workflows/update.yml/badge.svg)](https://github.com/nilfalse/edges/actions/workflows/update.yml)
+[![Dependencies status shield](https://badges.depfu.com/badges/77ca49d5484d730a75847c2d3a4f92b5/overview.svg)](https://depfu.com/github/nilfalse/edges)
+
 Where CDN points of presence are, built for easy lookup by code.
 
 Cloudflare, AWS CloudFront and Fastly name their points of presence (POPs) after the IATA code of a nearby airport. This repository turns those codes into a country and region, so the [CTF](https://nilfalse.com/addons/ctf) browser extension can show the flag of the place a website was served from.
