@@ -92,7 +92,7 @@ Because the data is typed as literals, these fail `tsc` and stop the build befor
 
 **`'XYZ' does not exist in type` in `lib/errata.ts`.** An erratum is no longer needed: the provider dropped the code, or OurAirports added it. Remove the entry.
 
-**`Tuple type … has no element at index`.** A provider returned fewer rows than expected. Check whether the response is truncated before lowering the floor.
+**`expected at least N, got M`.** A provider returned fewer rows than expected. Check whether the response is truncated before lowering the floor.
 
 **`No airport within 100 km`.** A Fastly datacenter is far from any airport. Add an erratum for its code.
 

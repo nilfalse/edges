@@ -8,11 +8,9 @@ import cloudflare from '../.build/cloudflare.ts';
 
 const components = cloudflare.result.components;
 
-export const locations = components.filter(
-  (component) => component.type === 'location',
-);
 export type Code = (typeof locations)[number]['location']['iata_code'];
+export const locations = components.filter((c) => c.type === 'location');
 
 // Fewer than 400 components fails to compile.
 // Services are counted too, since filtering loses the tuple length.
-void components[399];
+type _ = Assert<AtLeast<400, typeof components>>;

@@ -9,14 +9,6 @@ import type * as aws from './aws.ts';
 import type * as cloudflare from './cloudflare.ts';
 import type * as fastly from './fastly.ts';
 
-/** AWS and Cloudflare codes have no fallback: every unknown one must be listed. */
-type Unresolved = Record<Exclude<aws.Code | cloudflare.Code, Iata>, Erratum>;
-
-/** Fastly codes fall back to the nearest airport: list only where it picks the wrong place. */
-type Misplaced = Partial<Record<Exclude<fastly.Code, Iata>, Erratum>>;
-
-type Erratum = Iata | Edge;
-
 /**
  * Codes that OurAirports does not know.
  *
@@ -39,3 +31,11 @@ export const errata: LookupTable<Erratum> = {
   // "Berhampur": coordinates are Baharampur, West Bengal; nearest is across the border in Bangladesh.
   QAJ: { country: 'IN', region: 'IN-WB' },
 } satisfies Unresolved & Misplaced;
+
+type Erratum = Iata | Edge;
+
+/** AWS and Cloudflare codes have no fallback: every unknown one must be listed. */
+type Unresolved = Record<Exclude<aws.Code | cloudflare.Code, Iata>, Erratum>;
+
+/** Fastly codes fall back to the nearest airport: list only where it picks the wrong place. */
+type Misplaced = Partial<Record<Exclude<fastly.Code, Iata>, Erratum>>;

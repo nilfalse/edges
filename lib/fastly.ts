@@ -6,8 +6,8 @@
  * file, You can obtain one at https://mozilla.org/MPL/2.0/. */
 import fastly from '../.build/fastly.ts';
 
-export const datacenters = fastly;
 export type Code = (typeof datacenters)[number]['code'];
+export const datacenters = fastly;
 
 // Fewer than 180 datacenters fails to compile.
-void datacenters[179];
+type _ = Assert<AtLeast<180, typeof datacenters>>;

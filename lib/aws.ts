@@ -6,8 +6,8 @@
  * file, You can obtain one at https://mozilla.org/MPL/2.0/. */
 import aws from '../.build/aws.ts';
 
-export const locations = aws.edge_locations;
 export type Code = (typeof locations)[number]['iata_code'];
+export const locations = aws.edge_locations;
 
 // Fewer than 100 locations fails to compile.
-void locations[99];
+type _ = Assert<AtLeast<100, typeof locations>>;
