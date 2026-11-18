@@ -1,0 +1,1858 @@
+{
+  "AAE": {
+    "country": "DZ",
+    "region": "DZ-23"
+  },
+  "ABJ": {
+    "country": "CI",
+    "region": "CI-AB"
+  },
+  "ABQ": {
+    "country": "US",
+    "region": "US-NM"
+  },
+  "ACC": {
+    "country": "GH",
+    "region": "GH-AA"
+  },
+  "ACX": {
+    "country": "CN",
+    "region": "CN-52"
+  },
+  "ADB": {
+    "country": "TR",
+    "region": "TR-35"
+  },
+  "ADD": {
+    "country": "ET",
+    "region": "ET-AA"
+  },
+  "ADL": {
+    "country": "AU",
+    "region": "AU-SA"
+  },
+  "ADS": {
+    "country": "US",
+    "region": "US-TX"
+  },
+  "AGC": {
+    "country": "US",
+    "region": "US-PA"
+  },
+  "AGR": {
+    "country": "IN",
+    "region": "IN-UP"
+  },
+  "AIP": {
+    "country": "IN",
+    "region": "IN-PB"
+  },
+  "AKL": {
+    "country": "NZ",
+    "region": "NZ-AUK"
+  },
+  "AKX": {
+    "country": "KZ",
+    "region": "KZ-AKT"
+  },
+  "ALA": {
+    "country": "KZ",
+    "region": "KZ-ALA"
+  },
+  "ALG": {
+    "country": "DZ",
+    "region": "DZ-16"
+  },
+  "AMD": {
+    "country": "IN",
+    "region": "IN-GJ"
+  },
+  "AMM": {
+    "country": "JO",
+    "region": "JO-AM"
+  },
+  "AMS": {
+    "country": "NL",
+    "region": "NL-NH"
+  },
+  "ANC": {
+    "country": "US",
+    "region": "US-AK"
+  },
+  "APA": {
+    "country": "US",
+    "region": "US-CO"
+  },
+  "ARI": {
+    "country": "CL",
+    "region": "CL-AP"
+  },
+  "ARN": {
+    "country": "SE",
+    "region": "SE-AB"
+  },
+  "ARU": {
+    "country": "BR",
+    "region": "BR-SP"
+  },
+  "ASK": {
+    "country": "CI",
+    "region": "CI-YM"
+  },
+  "ASU": {
+    "country": "PY",
+    "region": "PY-11"
+  },
+  "ATH": {
+    "country": "GR",
+    "region": "GR-I"
+  },
+  "ATL": {
+    "country": "US",
+    "region": "US-GA"
+  },
+  "AUS": {
+    "country": "US",
+    "region": "US-TX"
+  },
+  "AVA": {
+    "country": "CN",
+    "region": "CN-52"
+  },
+  "AZP": {
+    "country": "MX",
+    "region": "MX-MEX"
+  },
+  "BAH": {
+    "country": "BH",
+    "region": "BH-15"
+  },
+  "BAQ": {
+    "country": "CO",
+    "region": "CO-ATL"
+  },
+  "BBI": {
+    "country": "IN",
+    "region": "IN-OR"
+  },
+  "BCN": {
+    "country": "ES",
+    "region": "ES-CT"
+  },
+  "BDQ": {
+    "country": "IN",
+    "region": "IN-GJ"
+  },
+  "BEG": {
+    "country": "RS",
+    "region": "RS-00"
+  },
+  "BEL": {
+    "country": "BR",
+    "region": "BR-PA"
+  },
+  "BER": {
+    "country": "DE",
+    "region": "DE-BR"
+  },
+  "BEY": {
+    "country": "LB",
+    "region": "LB-JL"
+  },
+  "BFI": {
+    "country": "US",
+    "region": "US-WA"
+  },
+  "BGI": {
+    "country": "BB",
+    "region": "BB-01"
+  },
+  "BGR": {
+    "country": "US",
+    "region": "US-ME"
+  },
+  "BGW": {
+    "country": "IQ",
+    "region": "IQ-BG"
+  },
+  "BGY": {
+    "country": "IT",
+    "region": "IT-25"
+  },
+  "BJC": {
+    "country": "US",
+    "region": "US-CO"
+  },
+  "BKK": {
+    "country": "TH",
+    "region": "TH-10"
+  },
+  "BLR": {
+    "country": "IN",
+    "region": "IN-KA"
+  },
+  "BMA": {
+    "country": "SE",
+    "region": "SE-AB"
+  },
+  "BNA": {
+    "country": "US",
+    "region": "US-TN"
+  },
+  "BNE": {
+    "country": "AU",
+    "region": "AU-QLD"
+  },
+  "BOD": {
+    "country": "FR",
+    "region": "FR-NAQ"
+  },
+  "BOG": {
+    "country": "CO",
+    "region": "CO-DC"
+  },
+  "BOM": {
+    "country": "IN",
+    "region": "IN-MM"
+  },
+  "BOS": {
+    "country": "US",
+    "region": "US-MA"
+  },
+  "BQH": {
+    "country": "GB",
+    "region": "GB-ENG"
+  },
+  "BRU": {
+    "country": "BE",
+    "region": "BE-VBR"
+  },
+  "BSB": {
+    "country": "BR",
+    "region": "BR-DF"
+  },
+  "BSR": {
+    "country": "IQ",
+    "region": "IQ-BA"
+  },
+  "BTF": {
+    "country": "US",
+    "region": "US-UT"
+  },
+  "BTS": {
+    "country": "SK",
+    "region": "SK-BL"
+  },
+  "BUD": {
+    "country": "HU",
+    "region": "HU-BU"
+  },
+  "BUR": {
+    "country": "US",
+    "region": "US-CA"
+  },
+  "BWI": {
+    "country": "US",
+    "region": "US-MD"
+  },
+  "BWN": {
+    "country": "BN",
+    "region": "BN-BM"
+  },
+  "CAI": {
+    "country": "EG",
+    "region": "EG-C"
+  },
+  "CAN": {
+    "country": "CN",
+    "region": "CN-44"
+  },
+  "CAW": {
+    "country": "BR",
+    "region": "BR-RJ"
+  },
+  "CBR": {
+    "country": "AU",
+    "region": "AU-ACT"
+  },
+  "CCU": {
+    "country": "IN",
+    "region": "IN-WB"
+  },
+  "CDG": {
+    "country": "FR",
+    "region": "FR-IDF"
+  },
+  "CEB": {
+    "country": "PH",
+    "region": "PH-CEB"
+  },
+  "CFC": {
+    "country": "BR",
+    "region": "BR-SC"
+  },
+  "CGB": {
+    "country": "BR",
+    "region": "BR-MT"
+  },
+  "CGD": {
+    "country": "CN",
+    "region": "CN-43"
+  },
+  "CGK": {
+    "country": "ID",
+    "region": "ID-BT"
+  },
+  "CGO": {
+    "country": "CN",
+    "region": "CN-41"
+  },
+  "CGP": {
+    "country": "BD",
+    "region": "BD-B"
+  },
+  "CGY": {
+    "country": "PH",
+    "region": "PH-MSR"
+  },
+  "CHC": {
+    "country": "NZ",
+    "region": "NZ-CAN"
+  },
+  "CHI": {
+    "country": "US",
+    "region": "US-IL"
+  },
+  "CJB": {
+    "country": "IN",
+    "region": "IN-TN"
+  },
+  "CKG": {
+    "country": "CN",
+    "region": "CN-50"
+  },
+  "CLE": {
+    "country": "US",
+    "region": "US-OH"
+  },
+  "CLO": {
+    "country": "CO",
+    "region": "CO-VAC"
+  },
+  "CLT": {
+    "country": "US",
+    "region": "US-NC"
+  },
+  "CMB": {
+    "country": "LK",
+    "region": "LK-1"
+  },
+  "CMH": {
+    "country": "US",
+    "region": "US-OH"
+  },
+  "CNF": {
+    "country": "BR",
+    "region": "BR-MG"
+  },
+  "CNN": {
+    "country": "IN",
+    "region": "IN-KL"
+  },
+  "CNX": {
+    "country": "TH",
+    "region": "TH-50"
+  },
+  "COK": {
+    "country": "IN",
+    "region": "IN-KL"
+  },
+  "COR": {
+    "country": "AR",
+    "region": "AR-X"
+  },
+  "CPH": {
+    "country": "DK",
+    "region": "DK-84"
+  },
+  "CPT": {
+    "country": "ZA",
+    "region": "ZA-WC"
+  },
+  "CRG": {
+    "country": "US",
+    "region": "US-FL"
+  },
+  "CRK": {
+    "country": "PH",
+    "region": "PH-PAM"
+  },
+  "CSX": {
+    "country": "CN",
+    "region": "CN-43"
+  },
+  "CTU": {
+    "country": "CN",
+    "region": "CN-51"
+  },
+  "CVG": {
+    "country": "US",
+    "region": "US-KY"
+  },
+  "CWB": {
+    "country": "BR",
+    "region": "BR-PR"
+  },
+  "CYW": {
+    "country": "MX",
+    "region": "MX-GUA"
+  },
+  "CZL": {
+    "country": "DZ",
+    "region": "DZ-25"
+  },
+  "CZX": {
+    "country": "CN",
+    "region": "CN-32"
+  },
+  "DAC": {
+    "country": "BD",
+    "region": "BD-C"
+  },
+  "DAD": {
+    "country": "VN",
+    "region": "VN-SCC"
+  },
+  "DAR": {
+    "country": "TZ",
+    "region": "TZ-02"
+  },
+  "DCA": {
+    "country": "US",
+    "region": "US-DC"
+  },
+  "DEL": {
+    "country": "IN",
+    "region": "IN-DL"
+  },
+  "DEN": {
+    "country": "US",
+    "region": "US-CO"
+  },
+  "DFW": {
+    "country": "US",
+    "region": "US-TX"
+  },
+  "DKR": {
+    "country": "SN",
+    "region": "SN-DK"
+  },
+  "DLA": {
+    "country": "CM",
+    "region": "CM-LT"
+  },
+  "DLC": {
+    "country": "CN",
+    "region": "CN-21"
+  },
+  "DME": {
+    "country": "RU",
+    "region": "RU-MOS"
+  },
+  "DMM": {
+    "country": "SA",
+    "region": "SA-04"
+  },
+  "DOH": {
+    "country": "QA",
+    "region": "QA-DA"
+  },
+  "DPS": {
+    "country": "ID",
+    "region": "ID-BA"
+  },
+  "DTW": {
+    "country": "US",
+    "region": "US-MI"
+  },
+  "DUB": {
+    "country": "IE",
+    "region": "IE-D"
+  },
+  "DUR": {
+    "country": "ZA",
+    "region": "ZA-NL"
+  },
+  "DUS": {
+    "country": "DE",
+    "region": "DE-NW"
+  },
+  "DWH": {
+    "country": "US",
+    "region": "US-TX"
+  },
+  "DXB": {
+    "country": "AE",
+    "region": "AE-DU"
+  },
+  "DYU": {
+    "country": "TJ",
+    "region": "TJ-DU"
+  },
+  "EBB": {
+    "country": "UG",
+    "region": "UG-C"
+  },
+  "EBL": {
+    "country": "IQ",
+    "region": "IQ-AR"
+  },
+  "EVN": {
+    "country": "AM",
+    "region": "AM-ER"
+  },
+  "EWR": {
+    "country": "US",
+    "region": "US-NJ"
+  },
+  "EZE": {
+    "country": "AR",
+    "region": "AR-B"
+  },
+  "FCO": {
+    "country": "IT",
+    "region": "IT-62"
+  },
+  "FIH": {
+    "country": "CD",
+    "region": "CD-KN"
+  },
+  "FJR": {
+    "country": "AE",
+    "region": "AE-FU"
+  },
+  "FLE": {
+    "country": "US",
+    "region": "US-VA"
+  },
+  "FLN": {
+    "country": "BR",
+    "region": "BR-SC"
+  },
+  "FOC": {
+    "country": "CN",
+    "region": "CN-35"
+  },
+  "FOR": {
+    "country": "BR",
+    "region": "BR-CE"
+  },
+  "FRA": {
+    "country": "DE",
+    "region": "DE-HE"
+  },
+  "FRU": {
+    "country": "KG",
+    "region": "KG-C"
+  },
+  "FSD": {
+    "country": "US",
+    "region": "US-SD"
+  },
+  "FUK": {
+    "country": "JP",
+    "region": "JP-40"
+  },
+  "FUO": {
+    "country": "CN",
+    "region": "CN-44"
+  },
+  "FXE": {
+    "country": "US",
+    "region": "US-FL"
+  },
+  "GBE": {
+    "country": "BW",
+    "region": "BW-GA"
+  },
+  "GDL": {
+    "country": "MX",
+    "region": "MX-JAL"
+  },
+  "GEO": {
+    "country": "GY",
+    "region": "GY-DE"
+  },
+  "GIG": {
+    "country": "BR",
+    "region": "BR-RJ"
+  },
+  "GND": {
+    "country": "GD",
+    "region": "GD-GE"
+  },
+  "GOT": {
+    "country": "SE",
+    "region": "SE-Q"
+  },
+  "GRU": {
+    "country": "BR",
+    "region": "BR-SP"
+  },
+  "GUA": {
+    "country": "GT",
+    "region": "GT-GU"
+  },
+  "GUM": {
+    "country": "GU",
+    "region": "GU-U-A"
+  },
+  "GVA": {
+    "country": "CH",
+    "region": "CH-GE"
+  },
+  "GYD": {
+    "country": "AZ",
+    "region": "AZ-BA"
+  },
+  "GYE": {
+    "country": "EC",
+    "region": "EC-G"
+  },
+  "GYN": {
+    "country": "BR",
+    "region": "BR-GO"
+  },
+  "HAK": {
+    "country": "CN",
+    "region": "CN-46"
+  },
+  "HAM": {
+    "country": "DE",
+    "region": "DE-HH"
+  },
+  "HAN": {
+    "country": "VN",
+    "region": "VN-RRD"
+  },
+  "HBA": {
+    "country": "AU",
+    "region": "AU-TAS"
+  },
+  "HDO": {
+    "country": "IN",
+    "region": "IN-UP"
+  },
+  "HEL": {
+    "country": "FI",
+    "region": "FI-18"
+  },
+  "HFA": {
+    "country": "IL",
+    "region": "IL-HA"
+  },
+  "HGH": {
+    "country": "CN",
+    "region": "CN-33"
+  },
+  "HHR": {
+    "country": "US",
+    "region": "US-CA"
+  },
+  "HIO": {
+    "country": "US",
+    "region": "US-OR"
+  },
+  "HKG": {
+    "country": "HK",
+    "region": "HK-NT"
+  },
+  "HMP": {
+    "country": "US",
+    "region": "US-GA"
+  },
+  "HNL": {
+    "country": "US",
+    "region": "US-HI"
+  },
+  "HRE": {
+    "country": "ZW",
+    "region": "ZW-HA"
+  },
+  "HYD": {
+    "country": "IN",
+    "region": "IN-TG"
+  },
+  "HYN": {
+    "country": "CN",
+    "region": "CN-33"
+  },
+  "IAD": {
+    "country": "US",
+    "region": "US-VA"
+  },
+  "IAH": {
+    "country": "US",
+    "region": "US-TX"
+  },
+  "ICN": {
+    "country": "KR",
+    "region": "KR-28"
+  },
+  "IND": {
+    "country": "US",
+    "region": "US-IN"
+  },
+  "ISB": {
+    "country": "PK",
+    "region": "PK-PB"
+  },
+  "IST": {
+    "country": "TR",
+    "region": "TR-34"
+  },
+  "ISU": {
+    "country": "IQ",
+    "region": "IQ-SW"
+  },
+  "ITM": {
+    "country": "JP",
+    "region": "JP-27"
+  },
+  "IXB": {
+    "country": "IN",
+    "region": "IN-WB"
+  },
+  "IXC": {
+    "country": "IN",
+    "region": "IN-CH"
+  },
+  "IXD": {
+    "country": "IN",
+    "region": "IN-UP"
+  },
+  "IXM": {
+    "country": "IN",
+    "region": "IN-TN"
+  },
+  "IXR": {
+    "country": "IN",
+    "region": "IN-JH"
+  },
+  "IXZ": {
+    "country": "IN",
+    "region": "IN-AN"
+  },
+  "JAI": {
+    "country": "IN",
+    "region": "IN-RJ"
+  },
+  "JAX": {
+    "country": "US",
+    "region": "US-FL"
+  },
+  "JCE": {
+    "country": "US",
+    "region": "US-CA"
+  },
+  "JDO": {
+    "country": "BR",
+    "region": "BR-CE"
+  },
+  "JED": {
+    "country": "SA",
+    "region": "SA-02"
+  },
+  "JFK": {
+    "country": "US",
+    "region": "US-NY"
+  },
+  "JGA": {
+    "country": "IN",
+    "region": "IN-GJ"
+  },
+  "JHB": {
+    "country": "MY",
+    "region": "MY-01"
+  },
+  "JIB": {
+    "country": "DJ",
+    "region": "DJ-DJ"
+  },
+  "JNB": {
+    "country": "ZA",
+    "region": "ZA-GT"
+  },
+  "JOG": {
+    "country": "ID",
+    "region": "ID-YO"
+  },
+  "JOI": {
+    "country": "BR",
+    "region": "BR-SC"
+  },
+  "JRG": {
+    "country": "IN",
+    "region": "IN-OR"
+  },
+  "JXG": {
+    "country": "CN",
+    "region": "CN-33"
+  },
+  "KBP": {
+    "country": "UA",
+    "region": "UA-32"
+  },
+  "KCH": {
+    "country": "MY",
+    "region": "MY-13"
+  },
+  "KEF": {
+    "country": "IS",
+    "region": "IS-2"
+  },
+  "KGL": {
+    "country": "RW",
+    "region": "RW-01"
+  },
+  "KHH": {
+    "country": "TW",
+    "region": "TW-KHH"
+  },
+  "KHI": {
+    "country": "PK",
+    "region": "PK-SD"
+  },
+  "KHN": {
+    "country": "CN",
+    "region": "CN-36"
+  },
+  "KIN": {
+    "country": "JM",
+    "region": "JM-01"
+  },
+  "KIV": {
+    "country": "MD",
+    "region": "MD-CU"
+  },
+  "KIX": {
+    "country": "JP",
+    "region": "JP-27"
+  },
+  "KMG": {
+    "country": "CN",
+    "region": "CN-53"
+  },
+  "KNU": {
+    "country": "IN",
+    "region": "IN-UP"
+  },
+  "KTM": {
+    "country": "NP",
+    "region": "NP-P3"
+  },
+  "KTU": {
+    "country": "IN",
+    "region": "IN-RJ"
+  },
+  "KUL": {
+    "country": "MY",
+    "region": "MY-10"
+  },
+  "KWE": {
+    "country": "CN",
+    "region": "CN-52"
+  },
+  "KWI": {
+    "country": "KW",
+    "region": "KW-FA"
+  },
+  "LAD": {
+    "country": "AO",
+    "region": "AO-LUA"
+  },
+  "LAS": {
+    "country": "US",
+    "region": "US-NV"
+  },
+  "LAX": {
+    "country": "US",
+    "region": "US-CA"
+  },
+  "LCA": {
+    "country": "CY",
+    "region": "CY-04"
+  },
+  "LCY": {
+    "country": "GB",
+    "region": "GB-ENG"
+  },
+  "LED": {
+    "country": "RU",
+    "region": "RU-SPE"
+  },
+  "LGA": {
+    "country": "US",
+    "region": "US-NY"
+  },
+  "LGW": {
+    "country": "GB",
+    "region": "GB-ENG"
+  },
+  "LHE": {
+    "country": "PK",
+    "region": "PK-PB"
+  },
+  "LHR": {
+    "country": "GB",
+    "region": "GB-ENG"
+  },
+  "LHW": {
+    "country": "CN",
+    "region": "CN-62"
+  },
+  "LIM": {
+    "country": "PE",
+    "region": "PE-LIM"
+  },
+  "LIN": {
+    "country": "IT",
+    "region": "IT-25"
+  },
+  "LIS": {
+    "country": "PT",
+    "region": "PT-11"
+  },
+  "LJU": {
+    "country": "SI",
+    "region": "SI-012"
+  },
+  "LLK": {
+    "country": "AZ",
+    "region": "AZ-LA"
+  },
+  "LLW": {
+    "country": "MW",
+    "region": "MW-LI"
+  },
+  "LON": {
+    "country": "GB",
+    "region": "GB-ENG"
+  },
+  "LOS": {
+    "country": "NG",
+    "region": "NG-LA"
+  },
+  "LPB": {
+    "country": "BO",
+    "region": "BO-L"
+  },
+  "LTN": {
+    "country": "GB",
+    "region": "GB-ENG"
+  },
+  "LUH": {
+    "country": "IN",
+    "region": "IN-PB"
+  },
+  "LUN": {
+    "country": "ZM",
+    "region": "ZM-09"
+  },
+  "LUX": {
+    "country": "LU",
+    "region": "LU-L"
+  },
+  "LYA": {
+    "country": "CN",
+    "region": "CN-41"
+  },
+  "LYS": {
+    "country": "FR",
+    "region": "FR-ARA"
+  },
+  "MAA": {
+    "country": "IN",
+    "region": "IN-TN"
+  },
+  "MAD": {
+    "country": "ES",
+    "region": "ES-MD"
+  },
+  "MAN": {
+    "country": "GB",
+    "region": "GB-ENG"
+  },
+  "MAO": {
+    "country": "BR",
+    "region": "BR-AM"
+  },
+  "MBA": {
+    "country": "KE",
+    "region": "KE-01"
+  },
+  "MCC": {
+    "country": "US",
+    "region": "US-CA"
+  },
+  "MCI": {
+    "country": "US",
+    "region": "US-MO"
+  },
+  "MCT": {
+    "country": "OM",
+    "region": "OM-MA"
+  },
+  "MDE": {
+    "country": "CO",
+    "region": "CO-ANT"
+  },
+  "MEL": {
+    "country": "AU",
+    "region": "AU-VIC"
+  },
+  "MEM": {
+    "country": "US",
+    "region": "US-TN"
+  },
+  "MEX": {
+    "country": "MX",
+    "region": "MX-DIF"
+  },
+  "MFE": {
+    "country": "US",
+    "region": "US-TX"
+  },
+  "MFM": {
+    "country": "MO",
+    "region": "MO-CAR"
+  },
+  "MIA": {
+    "country": "US",
+    "region": "US-FL"
+  },
+  "MIC": {
+    "country": "US",
+    "region": "US-MN"
+  },
+  "MLA": {
+    "country": "MT",
+    "region": "MT-25"
+  },
+  "MLE": {
+    "country": "MV",
+    "region": "MV-MLE"
+  },
+  "MLG": {
+    "country": "ID",
+    "region": "ID-JI"
+  },
+  "MNL": {
+    "country": "PH",
+    "region": "PH-00"
+  },
+  "MPM": {
+    "country": "MZ",
+    "region": "MZ-MPM"
+  },
+  "MQY": {
+    "country": "US",
+    "region": "US-TN"
+  },
+  "MRS": {
+    "country": "FR",
+    "region": "FR-PAC"
+  },
+  "MRU": {
+    "country": "MU",
+    "region": "MU-GP"
+  },
+  "MSP": {
+    "country": "US",
+    "region": "US-MN"
+  },
+  "MSQ": {
+    "country": "BY",
+    "region": "BY-MI"
+  },
+  "MUC": {
+    "country": "DE",
+    "region": "DE-BY"
+  },
+  "MXP": {
+    "country": "IT",
+    "region": "IT-25"
+  },
+  "NAG": {
+    "country": "IN",
+    "region": "IN-MM"
+  },
+  "NBO": {
+    "country": "KE",
+    "region": "KE-47"
+  },
+  "NJF": {
+    "country": "IQ",
+    "region": "IQ-NA"
+  },
+  "NMI": {
+    "country": "IN",
+    "region": "IN-MM"
+  },
+  "NOU": {
+    "country": "NC",
+    "region": "NC-03"
+  },
+  "NQN": {
+    "country": "AR",
+    "region": "AR-Q"
+  },
+  "NQZ": {
+    "country": "KZ",
+    "region": "KZ-AST"
+  },
+  "NRT": {
+    "country": "JP",
+    "region": "JP-12"
+  },
+  "NVT": {
+    "country": "BR",
+    "region": "BR-SC"
+  },
+  "NYC": {
+    "country": "US",
+    "region": "US-NJ"
+  },
+  "OKA": {
+    "country": "JP",
+    "region": "JP-47"
+  },
+  "OKC": {
+    "country": "US",
+    "region": "US-OK"
+  },
+  "OLV": {
+    "country": "US",
+    "region": "US-MS"
+  },
+  "OMA": {
+    "country": "US",
+    "region": "US-NE"
+  },
+  "ORD": {
+    "country": "US",
+    "region": "US-IL"
+  },
+  "ORF": {
+    "country": "US",
+    "region": "US-VA"
+  },
+  "ORN": {
+    "country": "DZ",
+    "region": "DZ-31"
+  },
+  "OSL": {
+    "country": "NO",
+    "region": "NO-32"
+  },
+  "OTP": {
+    "country": "RO",
+    "region": "RO-IF"
+  },
+  "OUA": {
+    "country": "BF",
+    "region": "BF-KAD"
+  },
+  "OWD": {
+    "country": "US",
+    "region": "US-MA"
+  },
+  "PAE": {
+    "country": "US",
+    "region": "US-WA"
+  },
+  "PAO": {
+    "country": "US",
+    "region": "US-CA"
+  },
+  "PAR": {
+    "country": "FR",
+    "region": "FR-IDF"
+  },
+  "PAT": {
+    "country": "IN",
+    "region": "IN-BR"
+  },
+  "PBH": {
+    "country": "BT",
+    "region": "BT-11"
+  },
+  "PBM": {
+    "country": "SR",
+    "region": "SR-PR"
+  },
+  "PDK": {
+    "country": "US",
+    "region": "US-GA"
+  },
+  "PDX": {
+    "country": "US",
+    "region": "US-OR"
+  },
+  "PER": {
+    "country": "AU",
+    "region": "AU-WA"
+  },
+  "PHL": {
+    "country": "US",
+    "region": "US-PA"
+  },
+  "PHX": {
+    "country": "US",
+    "region": "US-AZ"
+  },
+  "PIT": {
+    "country": "US",
+    "region": "US-PA"
+  },
+  "PKX": {
+    "country": "CN",
+    "region": "CN-11"
+  },
+  "PMO": {
+    "country": "IT",
+    "region": "IT-82"
+  },
+  "PMW": {
+    "country": "BR",
+    "region": "BR-TO"
+  },
+  "PNH": {
+    "country": "KH",
+    "region": "KH-12"
+  },
+  "PNQ": {
+    "country": "IN",
+    "region": "IN-MM"
+  },
+  "POA": {
+    "country": "BR",
+    "region": "BR-RS"
+  },
+  "POS": {
+    "country": "TT",
+    "region": "TT-TUP"
+  },
+  "PPM": {
+    "country": "US",
+    "region": "US-FL"
+  },
+  "PPT": {
+    "country": "PF",
+    "region": "PF-U-A"
+  },
+  "PRG": {
+    "country": "CZ",
+    "region": "CZ-PR"
+  },
+  "PRN": {
+    "country": "XK",
+    "region": "XK-01"
+  },
+  "PTY": {
+    "country": "PA",
+    "region": "PA-8"
+  },
+  "PUT": {
+    "country": "IN",
+    "region": "IN-AP"
+  },
+  "PWT": {
+    "country": "US",
+    "region": "US-WA"
+  },
+  "QAA": {
+    "country": "IN",
+    "region": "IN-CH"
+  },
+  "QAB": {
+    "country": "IN",
+    "region": "IN-OR"
+  },
+  "QAC": {
+    "country": "IN",
+    "region": "IN-WB"
+  },
+  "QAD": {
+    "country": "IN",
+    "region": "IN-UP"
+  },
+  "QAE": {
+    "country": "IN",
+    "region": "IN-TG"
+  },
+  "QAF": {
+    "country": "IN",
+    "region": "IN-MP"
+  },
+  "QAG": {
+    "country": "IN",
+    "region": "IN-DL"
+  },
+  "QAH": {
+    "country": "IN",
+    "region": "IN-KA"
+  },
+  "QAI": {
+    "country": "IN",
+    "region": "IN-MM"
+  },
+  "QAJ": {
+    "country": "IN",
+    "region": "IN-WB"
+  },
+  "QAK": {
+    "country": "IN",
+    "region": "IN-MM"
+  },
+  "QAL": {
+    "country": "IN",
+    "region": "IN-CH"
+  },
+  "QAM": {
+    "country": "IN",
+    "region": "IN-BR"
+  },
+  "QAN": {
+    "country": "IN",
+    "region": "IN-KL"
+  },
+  "QAO": {
+    "country": "IN",
+    "region": "IN-MM"
+  },
+  "QAP": {
+    "country": "IN",
+    "region": "IN-TN"
+  },
+  "QAR": {
+    "country": "IN",
+    "region": "IN-WB"
+  },
+  "QAS": {
+    "country": "IN",
+    "region": "IN-UP"
+  },
+  "QAU": {
+    "country": "IN",
+    "region": "IN-GJ"
+  },
+  "QAV": {
+    "country": "IN",
+    "region": "IN-PB"
+  },
+  "QAW": {
+    "country": "IN",
+    "region": "IN-WB"
+  },
+  "QAX": {
+    "country": "IN",
+    "region": "IN-AS"
+  },
+  "QAY": {
+    "country": "IN",
+    "region": "IN-RJ"
+  },
+  "QAZ": {
+    "country": "IN",
+    "region": "IN-UP"
+  },
+  "QBA": {
+    "country": "IN",
+    "region": "IN-PB"
+  },
+  "QBB": {
+    "country": "IN",
+    "region": "IN-MM"
+  },
+  "QBD": {
+    "country": "IN",
+    "region": "IN-UP"
+  },
+  "QBE": {
+    "country": "IN",
+    "region": "IN-BR"
+  },
+  "QBF": {
+    "country": "IN",
+    "region": "IN-HP"
+  },
+  "QBG": {
+    "country": "IN",
+    "region": "IN-JK"
+  },
+  "QBI": {
+    "country": "IN",
+    "region": "IN-AP"
+  },
+  "QBJ": {
+    "country": "IN",
+    "region": "IN-TG"
+  },
+  "QBK": {
+    "country": "IN",
+    "region": "IN-KA"
+  },
+  "QBL": {
+    "country": "IN",
+    "region": "IN-MP"
+  },
+  "QBM": {
+    "country": "IN",
+    "region": "IN-OR"
+  },
+  "QBN": {
+    "country": "IN",
+    "region": "IN-TG"
+  },
+  "QBO": {
+    "country": "IN",
+    "region": "IN-KL"
+  },
+  "QPG": {
+    "country": "SG",
+    "region": "SG-04"
+  },
+  "QQP": {
+    "country": "GB",
+    "region": "GB-ENG"
+  },
+  "QRO": {
+    "country": "MX",
+    "region": "MX-QUE"
+  },
+  "QWJ": {
+    "country": "BR",
+    "region": "BR-SP"
+  },
+  "RAO": {
+    "country": "BR",
+    "region": "BR-SP"
+  },
+  "RDU": {
+    "country": "US",
+    "region": "US-NC"
+  },
+  "REC": {
+    "country": "BR",
+    "region": "BR-PE"
+  },
+  "RFD": {
+    "country": "US",
+    "region": "US-IL"
+  },
+  "RHV": {
+    "country": "US",
+    "region": "US-CA"
+  },
+  "RIC": {
+    "country": "US",
+    "region": "US-VA"
+  },
+  "RIX": {
+    "country": "LV",
+    "region": "LV-062"
+  },
+  "RPR": {
+    "country": "IN",
+    "region": "IN-CT"
+  },
+  "RTM": {
+    "country": "NL",
+    "region": "NL-ZH"
+  },
+  "RUH": {
+    "country": "SA",
+    "region": "SA-01"
+  },
+  "RUN": {
+    "country": "RE",
+    "region": "RE-SD"
+  },
+  "SAF": {
+    "country": "US",
+    "region": "US-NM"
+  },
+  "SAN": {
+    "country": "US",
+    "region": "US-CA"
+  },
+  "SAP": {
+    "country": "HN",
+    "region": "HN-CR"
+  },
+  "SAT": {
+    "country": "US",
+    "region": "US-TX"
+  },
+  "SCL": {
+    "country": "CL",
+    "region": "CL-RM"
+  },
+  "SDQ": {
+    "country": "DO",
+    "region": "DO-01"
+  },
+  "SEA": {
+    "country": "US",
+    "region": "US-WA"
+  },
+  "SFO": {
+    "country": "US",
+    "region": "US-CA"
+  },
+  "SGN": {
+    "country": "VN",
+    "region": "VN-SE"
+  },
+  "SHA": {
+    "country": "CN",
+    "region": "CN-31"
+  },
+  "SHL": {
+    "country": "IN",
+    "region": "IN-ML"
+  },
+  "SIN": {
+    "country": "SG",
+    "region": "SG-04"
+  },
+  "SJC": {
+    "country": "US",
+    "region": "US-CA"
+  },
+  "SJK": {
+    "country": "BR",
+    "region": "BR-SP"
+  },
+  "SJO": {
+    "country": "CR",
+    "region": "CR-A"
+  },
+  "SJP": {
+    "country": "BR",
+    "region": "BR-SP"
+  },
+  "SJU": {
+    "country": "PR",
+    "region": "PR-U-A"
+  },
+  "SJW": {
+    "country": "CN",
+    "region": "CN-13"
+  },
+  "SKG": {
+    "country": "GR",
+    "region": "GR-B"
+  },
+  "SKP": {
+    "country": "MK",
+    "region": "MK-008"
+  },
+  "SLC": {
+    "country": "US",
+    "region": "US-UT"
+  },
+  "SMF": {
+    "country": "US",
+    "region": "US-CA"
+  },
+  "SOD": {
+    "country": "BR",
+    "region": "BR-SP"
+  },
+  "SOF": {
+    "country": "BG",
+    "region": "BG-22"
+  },
+  "SRQ": {
+    "country": "US",
+    "region": "US-FL"
+  },
+  "SSA": {
+    "country": "BR",
+    "region": "BR-BA"
+  },
+  "SSE": {
+    "country": "IN",
+    "region": "IN-MM"
+  },
+  "STI": {
+    "country": "DO",
+    "region": "DO-25"
+  },
+  "STL": {
+    "country": "US",
+    "region": "US-MO"
+  },
+  "STP": {
+    "country": "US",
+    "region": "US-MN"
+  },
+  "STR": {
+    "country": "DE",
+    "region": "DE-BW"
+  },
+  "STV": {
+    "country": "IN",
+    "region": "IN-GJ"
+  },
+  "SUV": {
+    "country": "FJ",
+    "region": "FJ-C"
+  },
+  "SXV": {
+    "country": "IN",
+    "region": "IN-TN"
+  },
+  "SYD": {
+    "country": "AU",
+    "region": "AU-NSW"
+  },
+  "SZX": {
+    "country": "CN",
+    "region": "CN-44"
+  },
+  "TAO": {
+    "country": "CN",
+    "region": "CN-37"
+  },
+  "TBS": {
+    "country": "GE",
+    "region": "GE-TB"
+  },
+  "TEN": {
+    "country": "CN",
+    "region": "CN-52"
+  },
+  "TEZ": {
+    "country": "IN",
+    "region": "IN-AS"
+  },
+  "TGU": {
+    "country": "HN",
+    "region": "HN-FM"
+  },
+  "TIA": {
+    "country": "AL",
+    "region": "AL-02"
+  },
+  "TLH": {
+    "country": "US",
+    "region": "US-FL"
+  },
+  "TLL": {
+    "country": "EE",
+    "region": "EE-37"
+  },
+  "TLV": {
+    "country": "IL",
+    "region": "IL-M"
+  },
+  "TNA": {
+    "country": "CN",
+    "region": "CN-37"
+  },
+  "TNR": {
+    "country": "MG",
+    "region": "MG-T"
+  },
+  "TOJ": {
+    "country": "ES",
+    "region": "ES-MD"
+  },
+  "TPA": {
+    "country": "US",
+    "region": "US-FL"
+  },
+  "TPE": {
+    "country": "TW",
+    "region": "TW-TAO"
+  },
+  "TSS": {
+    "country": "US",
+    "region": "US-NY"
+  },
+  "TTD": {
+    "country": "US",
+    "region": "US-OR"
+  },
+  "TTN": {
+    "country": "US",
+    "region": "US-NJ"
+  },
+  "TUN": {
+    "country": "TN",
+    "region": "TN-11"
+  },
+  "TXL": {
+    "country": "DE",
+    "region": "DE-BE"
+  },
+  "TYN": {
+    "country": "CN",
+    "region": "CN-14"
+  },
+  "UDI": {
+    "country": "BR",
+    "region": "BR-MG"
+  },
+  "UDR": {
+    "country": "IN",
+    "region": "IN-RJ"
+  },
+  "UGN": {
+    "country": "US",
+    "region": "US-IL"
+  },
+  "UIO": {
+    "country": "EC",
+    "region": "EC-P"
+  },
+  "ULN": {
+    "country": "MN",
+    "region": "MN-1"
+  },
+  "URT": {
+    "country": "TH",
+    "region": "TH-84"
+  },
+  "VCP": {
+    "country": "BR",
+    "region": "BR-SP"
+  },
+  "VIE": {
+    "country": "AT",
+    "region": "AT-9"
+  },
+  "VIX": {
+    "country": "BR",
+    "region": "BR-ES"
+  },
+  "VNC": {
+    "country": "US",
+    "region": "US-FL"
+  },
+  "VNO": {
+    "country": "LT",
+    "region": "LT-VL"
+  },
+  "VNS": {
+    "country": "IN",
+    "region": "IN-UP"
+  },
+  "VTE": {
+    "country": "LA",
+    "region": "LA-VT"
+  },
+  "VTZ": {
+    "country": "IN",
+    "region": "IN-AP"
+  },
+  "WAW": {
+    "country": "PL",
+    "region": "PL-MZ"
+  },
+  "WDH": {
+    "country": "NA",
+    "region": "NA-KH"
+  },
+  "WIE": {
+    "country": "DE",
+    "region": "DE-HE"
+  },
+  "WLG": {
+    "country": "NZ",
+    "region": "NZ-WGN"
+  },
+  "WRO": {
+    "country": "PL",
+    "region": "PL-DS"
+  },
+  "WSI": {
+    "country": "AU",
+    "region": "AU-NSW"
+  },
+  "WUH": {
+    "country": "CN",
+    "region": "CN-42"
+  },
+  "WVI": {
+    "country": "US",
+    "region": "US-CA"
+  },
+  "XAP": {
+    "country": "BR",
+    "region": "BR-SC"
+  },
+  "XFN": {
+    "country": "CN",
+    "region": "CN-42"
+  },
+  "XIY": {
+    "country": "CN",
+    "region": "CN-61"
+  },
+  "XNH": {
+    "country": "IQ",
+    "region": "IQ-DQ"
+  },
+  "YHZ": {
+    "country": "CA",
+    "region": "CA-NS"
+  },
+  "YIP": {
+    "country": "US",
+    "region": "US-MI"
+  },
+  "YTO": {
+    "country": "CA",
+    "region": "CA-ON"
+  },
+  "YUL": {
+    "country": "CA",
+    "region": "CA-QC"
+  },
+  "YVR": {
+    "country": "CA",
+    "region": "CA-BC"
+  },
+  "YWG": {
+    "country": "CA",
+    "region": "CA-MB"
+  },
+  "YXE": {
+    "country": "CA",
+    "region": "CA-SK"
+  },
+  "YYC": {
+    "country": "CA",
+    "region": "CA-AB"
+  },
+  "YYZ": {
+    "country": "CA",
+    "region": "CA-ON"
+  },
+  "ZAG": {
+    "country": "HR",
+    "region": "HR-01"
+  },
+  "ZDM": {
+    "country": "PS",
+    "region": "PS-RBH"
+  },
+  "ZRH": {
+    "country": "CH",
+    "region": "CH-ZH"
+  }
+}
